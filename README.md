@@ -5,7 +5,7 @@ Design and Simulation of a Halfwave Dipole Antenna using using Ansys HFSS
 
 ---
 
-## Aim
+## Aim 
 
 To design and simulate a half-wave dipole antenna at a specified resonant frequency using Ansys HFSS, and to study its return loss, VSWR, gain and radiation pattern.
 
@@ -91,20 +91,13 @@ The antenna is usually fed at the centre gap using a **lumped port** or a **wave
 
 ## Observations
 
-*(Include your own table / plots relevant to the experiment.)*
 
 
 ### Graphs
 
-* S11 vs frequency
-*(Include your own graph)*
+<img width="1200" height="1600" alt="WhatsApp Image 2026-09-19 at 10 38 51 AM (2)" src="https://github.com/user-attachments/assets/56284614-1c10-47f0-9b5c-b435b2e68cf3" />
+<img width="1200" height="1600" alt="WhatsApp Image 2026-09-19 at 10 38 51 AM (1)" src="https://github.com/user-attachments/assets/afbd2536-3db4-4e11-91dc-898c6a4ee240" />
 
-* VSWR vs frequency
-*(Include your own graph)*
-
-* 2-D E-plane and H-plane radiation patterns
-*(Include your own graph)*
----
 
 ## Precautions
 
